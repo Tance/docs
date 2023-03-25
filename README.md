@@ -1,2 +1,2 @@
-# docs
-compute sicense docs
+# docs repository
+this is about compute science
